@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "email": "fdfdf",
+      "job": "things",
+      "id": "edf662a6-7fbc-4497-86fb-7d885a7699f8",
+      "password": "$2b$10$r3MZo9PCBDA1vg80nAL6s.A4p9jGIdgMv0xGdiyidra4J679lAWvS",
+      "role": "admin"
+    }
+  ]
+}
